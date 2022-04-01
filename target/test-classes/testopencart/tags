@@ -1,0 +1,10 @@
+	//register tryout
+	
+		//body/nav[@id='top']/div[1]/div[2]/ul[1]/li[2]/a[1]
+		//nav[@id='top']/descendant::span[contains(text(),'My Account')]
+		//body/nav[@id='top']/div[1]/div[2]/ul[1]/li[2]/descendant::*
+		//a[contains(text(),'Register')]
+		//div[@id='top-links']/descendant::li[2]/a
+		//Select dropdownlist = new Select(dropDown);
+		//dropdownlist.deselectByIndex(1);
+	//	System.out.println(dropdownlist.getFirstSelectedOption().getText());
